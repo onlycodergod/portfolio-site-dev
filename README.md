@@ -1,5 +1,4 @@
-start site
+#how to start/open this site
 
-npm i
-npm run-scripts
-npm start
+#npm i
+#npm start local
